@@ -1,0 +1,22 @@
+{
+  "name": "stick-stack-stow",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe that stacks and stows your sticks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hynding/stick-stack-stow.git"
+  },
+  "author": "Steve Hynding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hynding/stick-stack-stow/issues"
+  },
+  "homepage": "https://github.com/hynding/stick-stack-stow#readme",
+  "devDependencies": {
+    "cucumber": "^1.3.2"
+  }
+}
